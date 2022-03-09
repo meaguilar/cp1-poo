@@ -4,7 +4,15 @@
   {
     public static void Main(string[] args)
     {
-    //Escribe tu programa un seleccionador de dias de la semana, o de equipo
+     //Escribe tu programa sobre una calculadora que realice las 4 operaciones basicas
+    
+    /*
+     * Requerimientos:
+     *
+     * Realizar las operaciones según la opción que seleccione el usuario, mediante un menú repetitivo
+     * Programar una opcion para salir del menú
+     * 
+     */
     
     }
   }
