@@ -10,7 +10,7 @@
      * Requerimientos:
      *
      * Realizar las operaciones según la opción que seleccione el usuario, mediante un menú repetitivo
-     * Programar una opcion para salir del menú
+     * Programar una opcion para salir del menú.
      * 
      */
     
