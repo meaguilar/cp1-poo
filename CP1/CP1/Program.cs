@@ -1,4 +1,6 @@
-﻿namespace CP1
+﻿using System;
+
+namespace CP1
 {
   internal class Program
   {
@@ -13,6 +15,7 @@
      * Programar una opcion para salir del menú.
      * 
      */
+    Console.WriteLine("HOLA");
     
     }
   }
